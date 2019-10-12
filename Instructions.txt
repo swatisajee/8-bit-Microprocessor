@@ -1,0 +1,8 @@
+Instruction	Instruction Type 	7	6	5	4	3	2	1	0
+	
+load			I		0	0	0	1	0	0	0	0
+store 			I		0	0	1	1	0	0	0	1
+add			R		0	1	0	1	0	0	1	0
+addi			I		0	1	1	1	0	0	1	1
+sub			R		1	0	0	0	1	1	0	0
+jump			J		1	0	1	1	0	1	0	1
